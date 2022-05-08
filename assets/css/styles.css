@@ -1,6 +1,6 @@
 .container{
   background-image: url(../images/moving\ 1.png);
-  height: 900px;
+  height: 880px;
   background-size: 100%;
 }
 
@@ -40,8 +40,36 @@
   font-size: 50px;
   padding-left: 150px;
 }
-
-
 .oneroof{
   padding-left: 150px;
   margin-top: 80px;
+}
+.hustle{
+display: flex;
+justify-content: space-between;
+margin-top: 40px;
+}
+#kadevu{
+  height: 600px;
+  padding-left: 100px;
+}
+
+.cuthustle{
+  padding-top: 150px;
+  padding-right: 450px;
+  font-size: x-large;
+  line-height: 50px;
+}
+.butt1{
+  background-color: black;
+  width: 150px;
+  height: 50px;
+  border-top-right-radius: 10px;
+}
+
+.line1{
+  border-bottom: solid black 5px;
+  width: 120px;
+  padding-top: 0px;
+}
+
