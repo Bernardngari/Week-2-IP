@@ -47,7 +47,7 @@
 .hustle{
 display: flex;
 justify-content: space-between;
-margin-top: 40px;
+margin-top: 50px;
 }
 #kadevu{
   height: 600px;
@@ -71,5 +71,22 @@ margin-top: 40px;
   border-bottom: solid black 5px;
   width: 120px;
   padding-top: 0px;
+}
+#topmovers{
+  padding-left: 200px;
+}
+#line{
+  margin-left: 200px;
+}
+.contain{
+  margin-top: 100px;
+}
+.image{
+  height: 250px;
+  width
+}
+.horizontal, .horizontal2{
+  padding-left: 120px;
+  padding-right: 120px;
 }
 
