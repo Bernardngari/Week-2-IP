@@ -9,14 +9,10 @@
   justify-content: space-around;
   color: white;
   list-style-type: none;
-  /*background-color: blue;*/
   padding-top: 120px;
   padding-left: 600px;
   padding-right: 200px;
   border-bottom: color white solid 3px;
-}
-*{
-  borer: 1px solid red;
 }
 
 #login1{
@@ -29,4 +25,11 @@
   color: #FFAC12;
   background-color: black;
   border: 0px black;
+}
+
+#line{
+  border-bottom: solid rgba(19, 13, 13, 0.849) 5px;
+  height: 40px;
+  margin-left: 50px;
+  margin-right: 1300px;
 }
