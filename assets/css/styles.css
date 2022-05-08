@@ -1,7 +1,32 @@
 .container{
-  border: 2px solid red;
+  background-image: url(../images/moving\ 1.png);
+  height: 900px;
+  background-size: 100%;
 }
 
-.backimg{
-  height: 925px;
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  list-style-type: none;
+  /*background-color: blue;*/
+  padding-top: 100px;
+  padding-left: 600px;
+  padding-right: 200px;
+  border-bottom: color white solid 3px;
+}
+*{
+  borer: 1px solid red;
+}
+
+#login1{
+  background-color:  #FFAC12;
+  width: 70px;
+  border: 0px  #FFAC12;
+}
+
+#login2{
+  color: #FFAC12;
+  background-color: black;
+  border: 0px black;
 }
