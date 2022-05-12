@@ -116,3 +116,26 @@
 table >tr>td{
   border: 2px black;
 }
+.fMain{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 250px;
+  padding-right: 200px;
+}
+footer{
+  background-color: black;
+  height: 400px;
+}
+th{
+  width: 240px;
+  text-align: left;
+}
+.icons{
+  width: 260px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 90px;
+}
+
+
+
