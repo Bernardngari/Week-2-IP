@@ -125,6 +125,7 @@ table >tr>td{
 footer{
   background-color: black;
   height: 400px;
+  margin-top: 30px;
 }
 th{
   width: 240px;
