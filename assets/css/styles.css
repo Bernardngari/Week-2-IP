@@ -1,10 +1,10 @@
-.container{
+.container {
   background-image: url(../images/moving\ 1.png);
   height: 880px;
   background-size: 100%;
 }
 
-.navbar{
+.navbar {
   display: flex;
   justify-content: space-around;
   color: white;
@@ -15,80 +15,104 @@
   border-bottom: color white solid 3px;
 }
 
-#login1{
-  background-color:  #FFAC12;
+#login1 {
+  background-color: #ffac12;
   width: 70px;
-  border: 0px  #FFAC12;
+  border: 0px #ffac12;
 }
 
-#login2{
-  color: #FFAC12;
+#login2 {
+  color: #ffac12;
   background-color: black;
   border: 0px black;
 }
 
-#line{
+#line {
   border-bottom: solid rgba(19, 13, 13, 0.849) 5px;
-  width: 85px;
+  width: 169px;
 }
-
-.change{
+.change {
   height: 200px;
   margin-top: 70px;
   font-size: 50px;
   padding-left: 150px;
 }
-.oneroof{
+.oneroof {
   padding-left: 150px;
   margin-top: 80px;
 }
-.hustle{
-display: flex;
-justify-content: space-between;
-margin-top: 50px;
+.hustle {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
 }
-#kadevu{
+#kadevu {
   height: 600px;
   padding-left: 100px;
 }
 
-.cuthustle{
+.cuthustle {
   padding-top: 150px;
   padding-right: 450px;
   font-size: x-large;
   line-height: 50px;
 }
-.butt1{
+.butt1 {
   background-color: black;
   width: 150px;
   height: 50px;
   border-top-right-radius: 10px;
 }
 
-.line1{
+.line1 {
   width: 120px;
   height: 5px;
   background-color: rgba(19, 4, 4, 0.829);
   margin-left: 1px;
 }
-#topmovers{
+#topmovers {
   padding-left: 200px;
+  font-size: 50px;
+  margin-top: 0px;
 }
-#line{
+#line {
   margin-left: 200px;
 }
-.contain{
+.contain {
   margin-top: 100px;
 }
-.image{
+.image {
   height: 250px;
-  width
+  width: auto;
 }
-.horizontal, .horizontal2{
-  padding-left: 120px;
-  padding-right: 120px;
+.horizontal {
+  background-color: blue;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
 }
-#hover:hover{
+#hover:hover {
   color: blue;
 }
 
+.movers {
+  padding-left: 30px;
+}
+
+.table{
+  border: 1px black;
+  width: 100%;
+  text-align: center;
+  border: 2px black;
+  border-collapse: separate;
+}
+.hCont{
+  display: flex;
+  justify-content: space-around;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 20px;
+}
+table >tr>td{
+  border: 2px black;
+}
