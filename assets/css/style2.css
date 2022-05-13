@@ -1,0 +1,4 @@
+.bottomNav, .imageForm, .picRow, .x-align, .footerTop, .footerDown{
+  display: flex;
+  justify-content: space-between;
+}
