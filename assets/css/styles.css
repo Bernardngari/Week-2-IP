@@ -140,6 +140,15 @@ th{
 #hori2{
   margin-top: 100px;
 }
+/*styling page 2*/
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: blue;
+}
+
 
 
 
