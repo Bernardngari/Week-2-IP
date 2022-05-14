@@ -1,4 +1,33 @@
-.bottomNav, .imageForm, .picRow, .x-align, .footerTop, .footerDown{
+.tpNav, .bottomNav, .imageForm, .picRow, .x-align, .footerTop, .footerDown{
   display: flex;
   justify-content: space-between;
+}
+
+.gray{
+  background-color: gray;
+}
+
+nav>.topNav>ul>li{
+  display: inline;
+  padding-right: 80px;
+}
+.topNav{
+  margin-left: 700px;
+  height: 80px;
+  padding-top: 40px;
+}
+
+.bottomNav{
+  border-top: solid gray 1px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#work{
+  width: 150px;
+  height: 40px;
+  border-top-right-radius: 10px;
+  background-color: #FFAC12;
+  color: black;
+  border: 0px;
 }
