@@ -1,4 +1,4 @@
-.tpNav, .bottomNav, .imageForm, .picRow, .x-align, .footerTop, .footerDown{
+.bottomNav, .imageForm, .picRow, .x-align, .footerTop, .footerDown{
   display: flex;
   justify-content: space-between;
 }
@@ -6,6 +6,7 @@
 .gray{
   background-color: gray;
 }
+/*Style the nav bar*/
 
 nav>.topNav>ul>li{
   display: inline;
@@ -30,4 +31,34 @@ nav>.topNav>ul>li{
   background-color: #FFAC12;
   color: black;
   border: 0px;
+}
+
+.image{
+  height: 500px;
+  width: 65%;
+  object-fit: contain;
+  background-color: black;
+}
+
+.property{
+  width: 62%;
+  height: 100%;
+  padding-left: 300px;
+}
+.imageForm{
+  margin-top: 50px;
+}
+.form{
+  background-color: #FFAC12;
+  width: 500px;
+}
+.picRow{
+  width: 40%;
+  object-fit: contain;
+  padding-left: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#row{
+  width: 10%;
 }
